@@ -13,6 +13,7 @@ jupyterlite-javascript-kernel==0.2.2
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
+jupyterlab-language-pack-zh-TW
 
 # SQLite kernel (optional)
 jupyterlite-xeus-sqlite==0.2.1
